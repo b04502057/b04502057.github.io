@@ -1,0 +1,42 @@
+body{
+    background-color:skyblue;
+    font-family: "Microsoft JhengHei";
+}
+#one{
+    float:left;
+    width: 16cm;
+    height:7m;
+}
+#img2{
+    width:13cm;
+    height:auto;
+}
+#img1{
+    width: 5cm;
+    height:5cm;
+}
+#three{
+    float:left;
+    width:6cm;
+}
+#name{
+    font-family: "Microsoft JhengHei";
+    font-size: 1.3cm;
+}
+#two{
+    
+    font-family: "Microsoft JhengHei";
+}
+#four{
+    clear: both;
+    position: relative;
+
+}
+#five{
+    float: left;
+
+}
+#six{
+  float: left; 
+
+}

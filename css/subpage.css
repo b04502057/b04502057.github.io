@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+.one{
+    position: absolute;
+    left: 30%;
+    top: 10%;
+    
+    margin:0px auto;
+    width: 14cm;
+}
+
+p{
+    text-align: left;
+    
+}
+
+.img{
+
+width: 100%;
+height: 100%;
+opacity: 0.5;
+
+}
+
+.shiao{
+    width: 100%;
+    height: 100%;
+}
+
+.big{
+    position: relative;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+
+}
+
+body{
+    background-color: cadetblue;
+
+
+}
