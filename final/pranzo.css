@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#0755f3;
+    color: white;
+    
+}
+
+#ins{
+    text-align: left;
+    font-family: monospace;
+    font-size: 0.5cm;
+    color: white;
+    
+}
+
+#in{
+    position: relative;
+    left: 15%;
+    width: 70%;
+    height: auto;
+    color: #FFCC00;
+    background-color: rgb(250, 205, 25);
+    display: none;
+}
+
+
+  #bu{
+      text-align: center;
+      color: white;
+  }
+  
